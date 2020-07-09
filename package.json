@@ -27,5 +27,13 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "keywords": [
+    "promise",
+    "batching",
+    "batch",
+    "memory",
+    "map",
+    "iteration"
+  ]
 }
