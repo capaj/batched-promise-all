@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`chunk array should chunk 1`] = `
+Array [
+  Array [
+    1,
+    2,
+    3,
+  ],
+  Array [
+    4,
+    5,
+    6,
+  ],
+  Array [
+    7,
+    8,
+    9,
+  ],
+  Array [
+    0,
+  ],
+]
+`;
+
+exports[`chunk array should not fail on empty array 1`] = `Array []`;
