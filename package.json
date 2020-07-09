@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "start": "tsdx watch",
-    "build": "tsdx build",
+    "build": "tsdx build --target node --entry src/batched-promise-all.ts",
     "prepare": "npm run build",
     "test": "tsdx test",
     "w": "tsdx test --watch"
