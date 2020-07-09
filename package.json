@@ -35,5 +35,16 @@
     "memory",
     "map",
     "iteration"
-  ]
+  ],
+  "description": ":flight_departure: zero deps utility for keeping your memory footprint manageable with varying datasets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capaj/batched-promise-all.git"
+  },
+  "author": "capajj@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capaj/batched-promise-all/issues"
+  },
+  "homepage": "https://github.com/capaj/batched-promise-all#readme"
 }
