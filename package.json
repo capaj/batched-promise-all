@@ -1,10 +1,10 @@
 {
   "name": "batched-promise-all",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "main": "dist/index.js",
   "umd:main": "dist/batched-promise-all.umd.production.js",
   "module": "dist/batched-promise-all.es.production.js",
-  "typings": "dist/index.d.ts",
+  "typings": "dist/batched-promise-all.d.ts",
   "files": [
     "dist"
   ],
